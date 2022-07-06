@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.simonsays"
+    package="com.example.animalsays"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -20,19 +20,19 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.SimonSays" >
-        <activity android:name="com.example.simonsays.SplashActivity" >
+        android:theme="@style/Theme.AnimalSays" >
+        <activity android:name="com.example.animalsays.SplashActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.simonsays.MenuActivity" />
-        <activity android:name="com.example.simonsays.GameActivity" />
-        <activity android:name="com.example.simonsays.ScoreBoardActivity" />
-        <activity android:name="com.example.simonsays.RulesActivity" />
-        <activity android:name="com.example.simonsays.MainActivity" />
+        <activity android:name="com.example.animalsays.MenuActivity" />
+        <activity android:name="com.example.animalsays.GameActivity" />
+        <activity android:name="com.example.animalsays.ScoreBoardActivity" />
+        <activity android:name="com.example.animalsays.RulesActivity" />
+        <activity android:name="com.example.animalsays.MainActivity" />
     </application>
 
 </manifest>

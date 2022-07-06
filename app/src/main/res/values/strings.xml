@@ -18,10 +18,10 @@
     <string name="game_btn">Start Game</string>
     <string name="guide_btn">HOW TO</string>
     <string name="language_has_changed">English</string>
-    <string name="sound_is_off">sound has turned off</string>
-    <string name="sound_is_on">sound has turned on</string>
-    <string name="music_is_off">music has turned off</string>
-    <string name="music_is_on">music has turned on</string>
+    <string name="sound_is_off">Sound off</string>
+    <string name="sound_is_on">Sound on</string>
+    <string name="music_is_off">Music off</string>
+    <string name="music_is_on">Music on</string>
 
 
 </resources>
