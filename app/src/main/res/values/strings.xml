@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AnimalSays</string>
+    <string name="whats_your_name_txt">Welcome to Animal Says !</string>
+    <string name="my_name_hint">Type your name</string>
+    <string name="your_name_btn">Continue</string>
+    <string name="text_rules">Start the game, Once one of the animals will make a sound, click on it. the next phase will be a different animal making a sound. Click on the first animal up until the current one, You got this !</string>
+    <string name="text_rules_head_line">Animal Says</string>
+    <string name="level_txt">Press the start to begin</string>
+    <string name="new_game_btn">New game</string>
+    <string name="begin_btn">Start</string>
+    <string name="hello_name">User</string>
+    <string name="start_of_game">Good Luck !</string>
+    <string name="level">level</string>
+    <string name="default_score">Current score: 0</string>
+    <string name="current_score">Score</string>
+    <string name="game_over">Game over</string>
+    <string name="bad_luck_try_again">Failed, Click here to start again</string>
+    <string name="game_btn">Start Game</string>
+    <string name="guide_btn">HOW TO</string>
+    <string name="language_has_changed">English</string>
+    <string name="sound_is_off">sound has turned off</string>
+    <string name="sound_is_on">sound has turned on</string>
+    <string name="music_is_off">music has turned off</string>
+    <string name="music_is_on">music has turned on</string>
+
+
+</resources>

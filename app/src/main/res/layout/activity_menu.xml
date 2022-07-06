@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mind_background"
+    android:orientation="vertical"
+    tools:context=".MenuActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:gravity="center">
+
+
+        <TextView
+            android:id="@+id/hello_name_txt"
+            style="@style/AppFont"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="@string/hello_name"
+            android:textSize="24dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="461dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/game_btn"
+            android:layout_width="176dp"
+            android:layout_height="75dp"
+            android:layout_gravity="center"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:text="@string/game_btn" />
+
+        <Button
+            android:id="@+id/guide_btn"
+            android:layout_width="176dp"
+            android:layout_height="75dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:text="@string/guide_btn" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="556dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:scaleType="fitEnd">
+
+        <ImageButton
+            android:id="@+id/settings_btn"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_weight="0"
+            android:background="@null"
+            android:scaleType="fitEnd"
+            android:src="@drawable/settings_btn_icon" />
+
+        <ImageButton
+            android:id="@+id/english_btn"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="0"
+            android:background="@null"
+            android:scaleType="fitCenter"
+            android:src="@drawable/usa"
+            android:visibility="invisible" />
+
+        <ImageButton
+            android:id="@+id/hebrew_btn"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="0"
+            android:background="@null"
+            android:scaleType="fitCenter"
+            android:src="@drawable/iw"
+            android:visibility="invisible" />
+
+        <ImageButton
+            android:id="@+id/leaderboard_btn"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="0"
+            android:background="@null"
+            android:scaleType="fitCenter"
+            android:src="@drawable/podium"
+            android:visibility="invisible" />
+
+
+        <ImageButton
+            android:id="@+id/sound_btn"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="0"
+            android:background="@null"
+            android:scaleType="fitCenter"
+            android:src="@drawable/sound_on_icon"
+            android:visibility="invisible" />
+
+
+        <ImageButton
+            android:id="@+id/music_btn"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="0"
+            android:background="@null"
+            android:scaleType="fitCenter"
+            android:src="@drawable/music"
+            android:visibility="invisible" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>
+
+
+

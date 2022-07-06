@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical"
+    android:gravity="top|center"
+    android:id="@+id/game_layout"
+    android:background="@drawable/game_background"
+    >
+
+    <!--app:backgroundTint="#09C510"-->
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        >
+
+        <ImageView
+            android:id="@+id/red_btn"
+            android:layout_width="165dp"
+            android:layout_height="165dp"
+            android:onClick="redWasChosen"
+            android:src="@drawable/dog_icon_click" />
+
+        <ImageView
+            android:id="@+id/yellow_btn"
+            android:layout_width="165dp"
+            android:layout_height="165dp"
+            android:onClick="yellowWasChosen"
+            android:src="@drawable/duck_icon_click"
+            app:backgroundTint="#E4D656" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/blue_btn"
+            android:layout_width="159dp"
+            android:layout_height="146dp"
+            android:onClick="blueWasChosen"
+            android:src="@drawable/cat_icon_click"
+            app:backgroundTint="#0D31FF" />
+
+        <ImageView
+            android:id="@+id/green_btn"
+            android:layout_width="165dp"
+            android:layout_height="165dp"
+            android:onClick="greenWasChosen"
+            android:src="@drawable/cow_icon_click"
+            app:backgroundTint="#09C510" />
+
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/level_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/level_txt"
+        style="@style/AppFont"
+        android:textSize="20dp"
+        android:layout_marginTop="20dp"
+        />
+
+    <TextView
+        android:id="@+id/points_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/default_score"
+        android:textSize="20dp"
+        style="@style/AppFont"
+        android:layout_marginTop="20dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center|bottom"
+        android:layout_marginBottom="10dp">
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/well_done_gif_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+        <Button
+            android:id="@+id/begin_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="beginGame"
+            android:text="@string/begin_btn"
+            android:layout_marginBottom="20dp"
+            />
+    </LinearLayout>
+
+
+</LinearLayout>

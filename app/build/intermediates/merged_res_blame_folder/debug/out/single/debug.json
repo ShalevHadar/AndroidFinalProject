@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_play_game_image_icon.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\play_game_image_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_quartercirclebottomright.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_quartercirclebottomright.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_game_activity_background.jpg.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\game_activity_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\font_noot.otf.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\font\\noot.otf"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_quartercirclebottomright.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_quartercirclebottomright.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\font_sans.ttf.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\font\\sans.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_guide_book_icon.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\guide_book_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mind_background.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\mind_background.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\layout_listviewline_design.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\layout\\listviewline_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_duck_icon_click.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\duck_icon_click.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\raw_cat_mew.mp3.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\raw\\cat_mew.mp3"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_top_left_button_shape.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\top_left_button_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_guide_activity_background.webp.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\guide_activity_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_animal_says.jpeg.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\animal_says.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_en.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\en.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_quartercircletopright.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_quartercircletopright.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_quartercircletopleft.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_quartercircletopleft.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_quartercirclebottomleft.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_quartercirclebottomleft.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_quartercircletopleft.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_quartercircletopleft.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dog_icon_click.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\dog_icon_click.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_top_right_button_shape.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\top_right_button_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\raw_loin_raor.mp3.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\raw\\loin_raor.mp3"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_great_job.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\great_job.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_quartercirclebottomright.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_quartercirclebottomright.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_quartercircletopright.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_quartercircletopright.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sound_on_icon.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\sound_on_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_game_background.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\game_background.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_waiting.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\cat_waiting.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttom_right_button_shape.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\buttom_right_button_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_quartercirclebottomright.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_quartercirclebottomright.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_quartercirclebottomleft.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_quartercirclebottomleft.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pink_background_cats.webp.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\pink_background_cats.webp"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_quartercirclebottomleft.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_quartercirclebottomleft.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_quartercirclebottomright.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_quartercirclebottomright.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_quartercircletopright.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_quartercircletopright.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_shape_design.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\button_shape_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_usa.webp.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\usa.webp"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_quartercircletopleft.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_quartercircletopleft.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_activity_background.jpg.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\menu_activity_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings_btn_icon.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\settings_btn_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_quartercircletopright.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_quartercircletopright.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_quartercirclebottomleft.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_quartercirclebottomleft.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_quartercircletopright.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_quartercircletopright.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\color_button_text.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\color\\button_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cow_icon_click.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\cow_icon_click.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\font_shrek.ttf.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\font\\shrek.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rules.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\layout\\activity_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttom_left_button_shape.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\buttom_left_button_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_paw.webp.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\cat_paw.webp"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_quartercirclebottomleft.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_quartercirclebottomleft.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_quartercirclebottomleft.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_quartercirclebottomleft.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_quartercircletopleft.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_quartercircletopleft.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_quartercirclebottomright.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_quartercirclebottomright.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_quartercircletopright.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_quartercircletopright.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_quartercircletopleft.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_quartercircletopleft.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_quartercirclebottomright.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_quartercirclebottomright.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iw.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\iw.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\raw_main_theme_song.mp3.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\raw\\main_theme_song.mp3"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_score_board_image_background.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\score_board_image_background.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_quartercircletopleft.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_quartercircletopleft.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_icon_click.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\cat_icon_click.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\music.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\raw_wrong.mp3.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\raw\\wrong.mp3"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\raw_dog_bark.mp3.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\raw\\dog_bark.mp3"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_quartercircletopleft.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_quartercircletopleft.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\raw_cow.mp3.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\raw\\cow.mp3"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_quartercircletopright.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_quartercircletopright.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\anim_scale_up_button.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\anim\\scale_up_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\raw_duck_quack.mp3.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\raw\\duck_quack.mp3"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\anim_rotate.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_scoreboard.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\layout\\activity_scoreboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_quartercirclebottomleft.xml.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_quartercirclebottomleft.xml"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_cut.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\music_cut.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_podium.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\podium.png"
+    },
+    {
+        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sound_off_icon.png.flat",
+        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\sound_off_icon.png"
+    }
+]

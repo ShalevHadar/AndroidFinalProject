@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_activity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mind_background"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/animal_says"
+        android:layout_width="wrap_content"
+        android:layout_height="210dp"
+        android:layout_gravity="center"
+        android:alpha="0"
+        android:src="@drawable/animal_says"
+        tools:ignore="MissingConstraints" />
+
+    <LinearLayout
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/whats_your_name"
+            style="@style/AppFont"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:alpha="0"
+            android:text="@string/whats_your_name_txt"
+            android:textSize="30dp"
+            android:gravity="center"
+            />
+
+        <EditText
+            android:id="@+id/enter_name_edit_text"
+            style="@style/AppFont"
+            android:layout_width="wrap_content"
+            android:layout_height="101dp"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_margin="50dp"
+            android:layout_marginTop="50dp"
+            android:alpha="0"
+            android:hint="@string/my_name_hint"
+            android:gravity="center"
+            android:inputType="textPersonName"
+            android:textSize="30dp" />
+
+        <Button
+            android:id="@+id/enter_name_btn"
+            android:layout_width="289dp"
+            android:layout_height="82dp"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginBottom="10dp"
+            android:alpha="1"
+            android:onClick="onClickOnSendName"
+            android:text="@string/your_name_btn"
+            android:textSize="25dp" />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
