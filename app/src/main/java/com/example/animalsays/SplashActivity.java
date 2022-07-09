@@ -17,9 +17,20 @@ public class SplashActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        /**
+         * https://stackoverflow.com/questions/37152601/what-is-savedinstancestate
+         * For further instructions about saved Instance state
+         */
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
 
+
+        /**
+         * Loading animation & text
+         * Use a rotate xml on it
+         * Once delay is done, post a text that's the loading is done
+         * finish animation and go to the main game
+         */
         loadingText = findViewById(R.id.loading_Txt);
         loadingScreen = findViewById(R.id.loading_Screen);
         final Animation ImageAnimation = AnimationUtils.loadAnimation(this, R.anim.rotate);
