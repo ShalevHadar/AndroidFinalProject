@@ -35,9 +35,9 @@
 22        android:testOnly="true"
 23        android:theme="@style/Theme.AnimalSays" >
 23-->C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:14:9-48
-24        <activity android:name="com.example.animalsays.SplashActivity" >
+24        <activity android:name="com.example.animalsays.LoadingScreen" >
 24-->C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:15:9-21:20
-24-->C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:15:19-71
+24-->C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:15:19-70
 25            <intent-filter>
 25-->C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:16:13-20:29
 26                <action android:name="android.intent.action.MAIN" />
@@ -58,9 +58,9 @@
 33        <activity android:name="com.example.animalsays.ScoreBoardActivity" />
 33-->C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:24:9-78
 33-->C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:24:19-75
-34        <activity android:name="com.example.animalsays.RulesActivity" />
-34-->C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:25:9-73
-34-->C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:25:19-70
+34        <activity android:name="com.example.animalsays.Rules" />
+34-->C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:25:9-65
+34-->C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:25:19-62
 35        <activity android:name="com.example.animalsays.MainActivity" />
 35-->C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:26:9-71
 35-->C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:26:19-69

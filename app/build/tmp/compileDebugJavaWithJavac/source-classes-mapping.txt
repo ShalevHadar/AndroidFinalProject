@@ -1,34 +1,23 @@
-com/example/animalsays/ListviewAdapter.java
- com.example.animalsays.ListviewAdapter
-com/example/animalsays/Player.java
- com.example.animalsays.Player
-com/example/animalsays/GameActivity.java
- com.example.animalsays.GameActivity
+com/example/animalsays/Rules.java
+ com.example.animalsays.Rules
+com/example/animalsays/ListViewHelper.java
+ com.example.animalsays.ListViewHelper
 com/example/animalsays/LanguageManager.java
  com.example.animalsays.LanguageManager
-com/example/animalsays/MenuActivity.java
- com.example.animalsays.MenuActivity
- com.example.animalsays.MenuActivity$1
- com.example.animalsays.MenuActivity$2
- com.example.animalsays.MenuActivity$3
- com.example.animalsays.MenuActivity$4
- com.example.animalsays.MenuActivity$5
- com.example.animalsays.MenuActivity$6
- com.example.animalsays.MenuActivity$7
- com.example.animalsays.MenuActivity$8
-com/example/animalsays/HighscoreObject.java
- com.example.animalsays.HighscoreObject
+com/example/animalsays/scoreBoardSharedPreferences.java
+ com.example.animalsays.scoreBoardSharedPreferences
+ com.example.animalsays.scoreBoardSharedPreferences$1
 com/example/animalsays/BuildConfig.java
  com.example.animalsays.BuildConfig
 com/example/animalsays/ScoreBoardActivity.java
  com.example.animalsays.ScoreBoardActivity
- com.example.animalsays.ScoreBoardActivity$1
-com/example/animalsays/RulesActivity.java
- com.example.animalsays.RulesActivity
+com/example/animalsays/LoadingScreen.java
+ com.example.animalsays.LoadingScreen
+com/example/animalsays/ScoreboardHelper.java
+ com.example.animalsays.ScoreboardHelper
 com/example/animalsays/MainActivity.java
  com.example.animalsays.MainActivity
-com/example/animalsays/scoreBoardSharedPreferences.java
- com.example.animalsays.scoreBoardSharedPreferences
- com.example.animalsays.scoreBoardSharedPreferences$1
-com/example/animalsays/SplashActivity.java
- com.example.animalsays.SplashActivity
+com/example/animalsays/GameActivity.java
+ com.example.animalsays.GameActivity
+com/example/animalsays/MenuActivity.java
+ com.example.animalsays.MenuActivity

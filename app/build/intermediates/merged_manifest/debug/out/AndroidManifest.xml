@@ -21,7 +21,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.AnimalSays" >
-        <activity android:name="com.example.animalsays.SplashActivity" >
+        <activity android:name="com.example.animalsays.LoadingScreen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -31,7 +31,7 @@
         <activity android:name="com.example.animalsays.MenuActivity" />
         <activity android:name="com.example.animalsays.GameActivity" />
         <activity android:name="com.example.animalsays.ScoreBoardActivity" />
-        <activity android:name="com.example.animalsays.RulesActivity" />
+        <activity android:name="com.example.animalsays.Rules" />
         <activity android:name="com.example.animalsays.MainActivity" />
     </application>
 

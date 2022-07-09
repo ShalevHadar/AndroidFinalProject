@@ -1,24 +1,23 @@
 package com.example.animalsays;
 
 import androidx.appcompat.app.AppCompatActivity;
-import android.content.Context;
-import android.os.Bundle;
-import android.view.View;
-import android.widget.Button;
-import android.widget.ListView;
-import android.widget.TextView;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import android.os.Bundle;
+import android.widget.Button;
+import android.widget.ListView;
 
+
+/**
+ * This class is made to manage the Score Board with a shared preference database (ehh..)
+ */
 public class ScoreBoardActivity extends AppCompatActivity {
 
-    private TextView txt;
-    private Context context;
     ListView myListView;
-    ArrayList<HighscoreObject> highScoreObjectArrayList;
+    ArrayList<ScoreboardHelper> highScoreObjectArrayList;
     private Button resetButton;
-    private ListviewAdapter adapter;
+    private ListViewHelper adapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,26 +26,32 @@ public class ScoreBoardActivity extends AppCompatActivity {
         highScoreObjectArrayList = new ArrayList<>();
         resetButton = findViewById(R.id.reset_score_board);
 
-        resetButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                highScoreObjectArrayList = new ArrayList<>();
-                scoreBoardSharedPreferences.writeToSharedPreferences(getApplicationContext(), highScoreObjectArrayList);
-                adapter.clear();
-                adapter.addAll(highScoreObjectArrayList);
-                adapter.notifyDataSetChanged();
-            }
+        /**
+         * Button that reset the scoreboard
+         */
+        resetButton.setOnClickListener(view -> {
+            highScoreObjectArrayList = new ArrayList<>();
+            scoreBoardSharedPreferences.writeToSharedPreferences(getApplicationContext(), highScoreObjectArrayList);
+            adapter.clear();
+            adapter.addAll(highScoreObjectArrayList);
+            adapter.notifyDataSetChanged();
         });
 
-        highScoreObjectArrayList = scoreBoardSharedPreferences.readFromSharedPreferences(this); // Get highscore data from shared preferences
+        /**
+         * Get highscore data from shared preferences
+         */
+        highScoreObjectArrayList = scoreBoardSharedPreferences.readFromSharedPreferences(this);
         if ( highScoreObjectArrayList ==null)
             highScoreObjectArrayList = new ArrayList<>();
 
         myListView=findViewById(R.id.listViewhighScores);
 
-        Collections.sort(highScoreObjectArrayList); // Sort the list in descending order so the highest score will be first
+        /**
+         * Sort the list in descending order so the highest score will be first
+         */
+        Collections.sort(highScoreObjectArrayList);
 
-        adapter = new ListviewAdapter(ScoreBoardActivity.this, R.layout.listviewline_design, highScoreObjectArrayList);
+        adapter = new ListViewHelper(ScoreBoardActivity.this, R.layout.listviewline_design, highScoreObjectArrayList);
         myListView.setAdapter(adapter);
     }
 }

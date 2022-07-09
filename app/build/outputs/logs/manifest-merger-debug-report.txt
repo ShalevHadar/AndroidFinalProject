@@ -90,10 +90,10 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sh
 		ADDED from C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
 		ADDED from C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:14:9-48
-activity#com.example.animalsays.SplashActivity
+activity#com.example.animalsays.LoadingScreen
 ADDED from C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:15:19-71
+		ADDED from C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:15:19-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
@@ -116,10 +116,10 @@ activity#com.example.animalsays.ScoreBoardActivity
 ADDED from C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:24:9-78
 	android:name
 		ADDED from C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:24:19-75
-activity#com.example.animalsays.RulesActivity
-ADDED from C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:25:9-73
+activity#com.example.animalsays.Rules
+ADDED from C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:25:9-65
 	android:name
-		ADDED from C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:25:19-70
+		ADDED from C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:25:19-62
 activity#com.example.animalsays.MainActivity
 ADDED from C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:26:9-71
 	android:name

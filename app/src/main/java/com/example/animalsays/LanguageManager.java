@@ -6,26 +6,42 @@ import android.content.res.Configuration;
 import android.content.res.Resources;
 import java.util.Locale;
 
+
+/**
+ * Class that manage the current language and the other one that is available
+ * using shared preferences and context
+ */
 public class LanguageManager
 {
-    private Context ct;
-    private SharedPreferences sharedPreferences;
+    private final Context ct;
+    private final SharedPreferences sharedPreferences;
+
+    /**
+     * Language manager with context as ctx
+     * getting the language available from the shared preferences
+     * @param ctx
+     */
     public LanguageManager(Context ctx)
     {
         ct = ctx;
         sharedPreferences = ct.getSharedPreferences("LANG", Context.MODE_PRIVATE);
     }
 
+    /**
+     * setting the language to the code we got
+     * @param code
+     */
     public void setLang(String code)
     {
         SharedPreferences.Editor editor = sharedPreferences.edit();
         editor.putString("lang",code);
-        editor.commit();
+        editor.apply();
     }
-    public String getLang()
-    {
-        return sharedPreferences.getString("lang","en");
-    }
+
+    /**
+     * Update the current code (language) accordingly
+     * @param code
+     */
     public void updateResource(String code)
     {
         Locale locale = new Locale(code);

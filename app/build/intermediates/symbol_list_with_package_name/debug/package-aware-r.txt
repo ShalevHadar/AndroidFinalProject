@@ -1827,12 +1827,12 @@ id beginOnFirstDraw
 id begin_btn
 id beginning
 id blocking
-id blue_btn
 id bottom
 id bounce
 id buttonPanel
 id cache_measures
 id cancel_button
+id cat_btn
 id center
 id center_horizontal
 id center_vertical
@@ -1860,6 +1860,7 @@ id contiguous
 id coordinator
 id cos
 id counterclockwise
+id cow_btn
 id custom
 id customPanel
 id cut
@@ -1882,6 +1883,7 @@ id disableHome
 id disablePostScroll
 id disableScroll
 id disjoint
+id dog_btn
 id dragDown
 id dragEnd
 id dragLeft
@@ -1889,6 +1891,7 @@ id dragRight
 id dragStart
 id dragUp
 id dropdown_menu
+id duck_btn
 id easeIn
 id easeInOut
 id easeOut
@@ -1922,7 +1925,6 @@ id ghost_view_holder
 id gone
 id graph
 id graph_wrap
-id green_btn
 id group_divider
 id grouping
 id groups
@@ -2053,7 +2055,6 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
-id red_btn
 id reset_score_board
 id reverseSawtooth
 id right
@@ -2189,7 +2190,6 @@ id withText
 id withinBounds
 id wrap
 id wrap_content
-id yellow_btn
 id zero_corner_chip
 integer abc_config_activityDefaultDur
 integer abc_config_activityShortDur

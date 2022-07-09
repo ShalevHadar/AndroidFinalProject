@@ -27,7 +27,7 @@ public class scoreBoardSharedPreferences {
      * Insert the arraylist into the scoreboard
      */
 
-    public static void writeToSharedPreferences(Context context, ArrayList<HighscoreObject> list) {
+    public static void writeToSharedPreferences(Context context, ArrayList<ScoreboardHelper> list) {
         Gson gson = new Gson();
         String firstPlace = gson.toJson(list);
         SharedPreferences pref = PreferenceManager.getDefaultSharedPreferences(context);
@@ -43,12 +43,12 @@ public class scoreBoardSharedPreferences {
      * Storing the data from shared preferences into an arrayList
      */
 
-    public static ArrayList<HighscoreObject> readFromSharedPreferences(Context context) {
+    public static ArrayList<ScoreboardHelper> readFromSharedPreferences(Context context) {
         SharedPreferences pref = PreferenceManager.getDefaultSharedPreferences(context);
         String firstPlace = pref.getString(LIST_KEY,"");
         Gson gson = new Gson();
-        Type type = new TypeToken<ArrayList<HighscoreObject>>(){}.getType();
-        ArrayList<HighscoreObject> list = gson.fromJson(firstPlace,type);
+        Type type = new TypeToken<ArrayList<ScoreboardHelper>>(){}.getType();
+        ArrayList<ScoreboardHelper> list = gson.fromJson(firstPlace,type);
         return list;
     }
 
