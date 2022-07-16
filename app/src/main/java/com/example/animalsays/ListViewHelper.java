@@ -32,13 +32,11 @@ public class ListViewHelper extends ArrayAdapter<ScoreboardHelper> {
         String username = getItem(position).getUsername();
         String score = getItem(position).getScore();
 
-        ScoreboardHelper highScore = new ScoreboardHelper(username, score);
-
         LayoutInflater inflater = LayoutInflater.from(mContext);
         convertView = inflater.inflate(mResource, parent, false);
 
-        TextView tvUserName = (TextView) convertView.findViewById(R.id.textView2);
-        TextView tvScore = (TextView) convertView.findViewById(R.id.textView3);
+        TextView tvUserName = convertView.findViewById(R.id.textView2);
+        TextView tvScore = convertView.findViewById(R.id.textView3);
 
         tvUserName.setText(username);
         tvScore.setText(score);

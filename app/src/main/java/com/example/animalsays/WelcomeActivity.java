@@ -20,6 +20,10 @@ public class WelcomeActivity extends AppCompatActivity {
     ImageView animal;
 
 
+    /**
+     * Set welcome screen with all of the required params
+     * @param savedInstanceState
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

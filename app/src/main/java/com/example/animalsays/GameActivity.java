@@ -22,11 +22,19 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 
+/**
+ * This is the biggest class in the project
+ * This class is meant to define the game itself and manage it properly
+ * Each comment will define it's own purpose.
+ */
 public class GameActivity extends AppCompatActivity {
 
 
+    /**
+     * declare variables
+     */
     private TextView numberOfLevel;
-    private final String[] buttonColorsArray = {"dog_btn", "cat_btn", "cow_btn", "duck_btn"};
+    private final String[] buttonAnimalArray = {"dog_btn", "cat_btn", "cow_btn", "duck_btn"};
     private final Vector<String> gamePattern = new Vector<>();
     private final Vector<String> userClickedPattern = new Vector<>();
     private int level = 0, i;
@@ -42,6 +50,13 @@ public class GameActivity extends AppCompatActivity {
     private MediaPlayer Sound_cat, Sound_cow, Sound_dog, Sound_wrong, Sound_duck;
     private boolean soundIsOn;
 
+    /**
+     * Once created, set layout to activity_game
+     * score to 0
+     * hello to the userName
+     * the animal images
+     * Sounds and etc..
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
@@ -73,9 +88,11 @@ public class GameActivity extends AppCompatActivity {
         soundIsOn = getIntent().getExtras().getBoolean("boolSoundIsOn");
     }
 
-    //onClick
+    /**
+     * Good Luck toast once game start
+     * Cannot click after game has started
+     */
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
-    @SuppressLint("ResourceAsColor")
     public void beginGame(View view) {
         Toast.makeText(GameActivity.this, getResources().getString(R.string.start_of_game), Toast.LENGTH_SHORT).show();
         startGame.setText(getString(R.string.new_game_btn));
@@ -83,7 +100,9 @@ public class GameActivity extends AppCompatActivity {
         nextSequence();//start fresh new game
     }
 
-    //clear user's selection and pc's selection and start from the first level
+    /**
+     * Start over function and clear user if failed
+     */
     private void startOver() {
 
         setButtonClickable(false);
@@ -94,21 +113,19 @@ public class GameActivity extends AppCompatActivity {
         level = 0;
     }
 
-    public void playGif(){
-        message.setAlpha(1f);
-        message.animate().alpha(0f).setStartDelay(1000).setDuration(2000);
-
-    }
-    //clear player's selection, choose next color and add it to the gamepattern array, increase the level and display it
+    /**
+     * Choose randomly the next animal
+     * Making the animals as array, then choosing a random one with a RandomInt.
+     */
     @SuppressLint("SetTextI18n")
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     public void nextSequence() {
 
         userClickedPattern.removeAllElements();
-        Random randomColor = new Random();
-        int randomColorChooser = randomColor.nextInt(4);
-        String randomChosenColor = buttonColorsArray[randomColorChooser];
-        gamePattern.add(randomChosenColor);
+        Random randomAnimal = new Random();
+        int randomAnimalChooser = randomAnimal.nextInt(4);
+        String randomChosenAnimal = buttonAnimalArray[randomAnimalChooser];
+        gamePattern.add(randomChosenAnimal);
         int size = gamePattern.size();
         i = 0;
 
@@ -124,19 +141,26 @@ public class GameActivity extends AppCompatActivity {
             }
         };
         handler.postDelayed(runnable, 900);
-        //playPattern();
         level++;
-        numberOfLevel.setText(getString(R.string.level) +" " + level);//this will change the text to the current level number
+        numberOfLevel.setText(getString(R.string.level) +" " + level);
         setButtonClickable(false);
     }
 
-    //here we generate the new pattern for the new level
+    /**
+     * Generate new pattern for the new level
+     * use API to use: buttonAnimation
+     */
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     public void playPattern(String color) {
         playSound(color);
         buttonAnimation(color);
     }
 
+    /**
+     * After calling the animal, restore it its original form
+     * @param view
+     * @param curColor
+     */
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     private void restoreButtonColorAndShape(ImageView view, int curColor) {
         Handler handler2 = new Handler();
@@ -150,7 +174,10 @@ public class GameActivity extends AppCompatActivity {
         view.setColorFilter(ContextCompat.getColor(view.getContext(), R.color.black), android.graphics.PorterDuff.Mode.SRC_IN);
     }
 
-    @SuppressLint("ResourceAsColor")
+    /**
+     * Make animal 'flash' when clicking on it
+     * @param name
+     */
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     private void buttonAnimation(String name) {
         switch (name) {
@@ -171,6 +198,11 @@ public class GameActivity extends AppCompatActivity {
         }
     }
 
+    /**
+     *a helper function to check if the user marked the correct answer
+     * @param color
+     * @param currentLevel
+     */
     @SuppressLint("SetTextI18n")
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     public void checkAnswer(String color, int currentLevel) {
@@ -190,6 +222,9 @@ public class GameActivity extends AppCompatActivity {
         }
     }
 
+    /**
+     * Game over function, this function is called after checkAnswer
+     */
     private void gameOver() {
         numberOfLevel.setText(getString(R.string.game_over));
         startGame.setText(getString(R.string.bad_luck_try_again));
@@ -198,9 +233,12 @@ public class GameActivity extends AppCompatActivity {
         startOver();
     }
 
-    //here we check which sound to play according to which color was chosen
+    /**
+     * play sound according to the animal pressed
+     * add a verify fucntion to make sure if sound is already playing don't play sound.
+     * @param name
+     */
     private void playSound(String name) {
-
         if (!soundIsOn) {
             return;
         }
@@ -223,8 +261,11 @@ public class GameActivity extends AppCompatActivity {
         }
     }
 
+    /**
+     * make animal clickable
+     * @param status
+     */
     public void setButtonClickable(boolean status) {
-
         dog.setClickable(status);
         cat.setClickable(status);
         green.setClickable(status);
@@ -232,39 +273,49 @@ public class GameActivity extends AppCompatActivity {
 
     }
 
-    /*these buttons refer to the options*/
-
-    //user chose dog
+    /**
+     * choose dog
+     * @param view
+     */
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
-    public void redWasChosen(View view) {
+    public void dogWasChosen(View view) {
         checkAnswer("dog_btn", userClickedPattern.size() + 1);
     }
 
-    //user selected duck
+    /**
+     * choose duck
+     * @param view
+     */
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
-    public void yellowWasChosen(View view) {
+    public void duckWasChosen(View view) {
         checkAnswer("duck_btn", userClickedPattern.size() + 1);
     }
 
-    //user selected green
+    /**
+     * choose dog
+     * @param view
+     */
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
-    public void greenWasChosen(View view) {
+    public void cowWasChosen(View view) {
         checkAnswer("cow_btn", userClickedPattern.size() + 1);
     }
 
-    //user selected cat
+    /**
+     * choose cat
+     * @param view
+     */
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
-    public void blueWasChosen(View view) {
+    public void catWasChosen(View view) {
         checkAnswer("cat_btn", userClickedPattern.size() + 1);
     }
 
+    /** Update the highest score in scored board once the game is over
+     * ScoreboardHelper is implementing a collection sort function
+     */
     private void updateHighScores() {
-        ScoreboardHelper newHighScore = new ScoreboardHelper(username, score.toString()); // Create a new highscore with username and current points
-        highScoreList.add(newHighScore); // Add it to the list
-        Collections.sort(highScoreList); // Sort the list in descending order so the highest score will be first
-        // (this only works because we implemented Comparable in HighScoreObject.java class and override compareTo function
-
-        // Shared Preferences
+        ScoreboardHelper newHighScore = new ScoreboardHelper(username, score.toString());
+        highScoreList.add(newHighScore);
+        Collections.sort(highScoreList);
         scoreBoardSharedPreferences.writeToSharedPreferences(getApplicationContext(), highScoreList); // Write list to shared preferences so it would be saved if we re-open the application
     }
 }

@@ -61,9 +61,9 @@
 34        <activity android:name="com.example.animalsays.Rules" />
 34-->C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:25:9-65
 34-->C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:25:19-62
-35        <activity android:name="com.example.animalsays.MainActivity" />
-35-->C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:26:9-71
-35-->C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:26:19-69
+35        <activity android:name="com.example.animalsays.WelcomeActivity" />
+35-->C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:26:9-74
+35-->C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:26:19-72
 36    </application>
 37
 38</manifest>

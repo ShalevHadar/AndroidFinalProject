@@ -25,14 +25,14 @@
             android:id="@+id/dog_btn"
             android:layout_width="165dp"
             android:layout_height="165dp"
-            android:onClick="redWasChosen"
+            android:onClick="dogWasChosen"
             android:src="@drawable/dog_icon_click" />
 
         <ImageView
             android:id="@+id/duck_btn"
             android:layout_width="165dp"
             android:layout_height="165dp"
-            android:onClick="yellowWasChosen"
+            android:onClick="duckWasChosen"
             android:src="@drawable/duck_icon_click"
             app:backgroundTint="#E4D656" />
 
@@ -47,7 +47,7 @@
             android:id="@+id/cat_btn"
             android:layout_width="159dp"
             android:layout_height="146dp"
-            android:onClick="blueWasChosen"
+            android:onClick="catWasChosen"
             android:src="@drawable/cat_icon_click"
             app:backgroundTint="#0D31FF" />
 
@@ -55,7 +55,7 @@
             android:id="@+id/cow_btn"
             android:layout_width="165dp"
             android:layout_height="165dp"
-            android:onClick="greenWasChosen"
+            android:onClick="cowWasChosen"
             android:src="@drawable/cow_icon_click"
             app:backgroundTint="#09C510" />
 

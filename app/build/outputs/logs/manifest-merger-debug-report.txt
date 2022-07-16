@@ -120,10 +120,10 @@ activity#com.example.animalsays.Rules
 ADDED from C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:25:9-65
 	android:name
 		ADDED from C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:25:19-62
-activity#com.example.animalsays.MainActivity
-ADDED from C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:26:9-71
+activity#com.example.animalsays.WelcomeActivity
+ADDED from C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:26:9-74
 	android:name
-		ADDED from C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:26:19-69
+		ADDED from C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml:26:19-72
 uses-sdk
 INJECTED from C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\shada\Desktop\Android\Animal-says\AnimalSays\app\src\main\AndroidManifest.xml
