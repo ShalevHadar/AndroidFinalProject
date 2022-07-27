@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SimonSays.iml" filepath="$PROJECT_DIR$/.idea/modules/SimonSays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SimonSays.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SimonSays.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/konfetti/SimonSays.konfetti.iml" filepath="$PROJECT_DIR$/.idea/modules/konfetti/SimonSays.konfetti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnimalSays.iml" filepath="$PROJECT_DIR$/.idea/modules/AnimalSays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AnimalSays.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AnimalSays.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/konfetti/AnimalSays.konfetti.iml" filepath="$PROJECT_DIR$/.idea/modules/konfetti/AnimalSays.konfetti.iml" />
     </modules>
   </component>
 </project>

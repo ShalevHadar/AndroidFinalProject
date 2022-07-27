@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/shada/Desktop/Android/Animal-says/AnimalSays/app/src/main/res/drawable/buttom_left_button_shape.xml" value="0.169" />
+        <entry key="..\:/Users/shada/Desktop/Android/Animal-says/AnimalSays/app/src/main/res/drawable/buttom_right_button_shape.xml" value="0.169" />
+        <entry key="..\:/Users/shada/Desktop/Android/Animal-says/AnimalSays/app/src/main/res/drawable/button_shape_design.xml" value="0.128" />
+        <entry key="..\:/Users/shada/Desktop/Android/Animal-says/AnimalSays/app/src/main/res/drawable/top_left_button_shape.xml" value="0.169" />
+        <entry key="..\:/Users/shada/Desktop/Android/Animal-says/AnimalSays/app/src/main/res/drawable/top_right_button_shape.xml" value="0.169" />
         <entry key="..\:/Users/shada/Desktop/Android/Animal-says/AnimalSays/app/src/main/res/layout/activity_game.xml" value="0.36186594202898553" />
         <entry key="..\:/Users/shada/Desktop/Android/Animal-says/AnimalSays/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/shada/Desktop/Android/Animal-says/AnimalSays/app/src/main/res/layout/activity_menu.xml" value="0.33" />

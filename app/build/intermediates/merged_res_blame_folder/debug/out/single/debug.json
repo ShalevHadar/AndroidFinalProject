@@ -36,10 +36,6 @@
         "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttom_left_button_shape.xml.flat",
-        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\buttom_left_button_shape.xml"
-    },
-    {
         "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
@@ -78,10 +74,6 @@
     {
         "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_quartercirclebottomleft.png.flat",
         "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_quartercirclebottomleft.png"
-    },
-    {
-        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_top_left_button_shape.xml.flat",
-        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\top_left_button_shape.xml"
     },
     {
         "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_guide_activity_background.webp.flat",
@@ -196,10 +188,6 @@
         "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\raw\\dog_bark.mp3"
     },
     {
-        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_top_right_button_shape.xml.flat",
-        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\top_right_button_shape.xml"
-    },
-    {
         "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\raw_loin_raor.mp3.flat",
         "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\raw\\loin_raor.mp3"
     },
@@ -234,10 +222,6 @@
     {
         "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_waiting.png.flat",
         "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\cat_waiting.png"
-    },
-    {
-        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttom_right_button_shape.xml.flat",
-        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\buttom_right_button_shape.xml"
     },
     {
         "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_quartercirclebottomright.png.flat",
@@ -298,10 +282,6 @@
     {
         "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_shape_design.xml.flat",
-        "source": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\src\\main\\res\\drawable\\button_shape_design.xml"
     },
     {
         "merged": "C:\\Users\\shada\\Desktop\\Android\\Animal-says\\AnimalSays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_usa.webp.flat",
